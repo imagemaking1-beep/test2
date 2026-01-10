@@ -1,0 +1,5 @@
+{
+  "name": "Emoji Movie Master AI",
+  "description": "An interactive AI-powered movie quiz game where users guess movie titles based on emojis. Featuring dynamic quiz generation using Gemini and a bold Neo-Brutalist UI.",
+  "requestFramePermissions": []
+}
